@@ -1,1 +1,1 @@
-Put project directories in here!
+This tutorial is based on https://github.com/brenna/webaudio-examples
